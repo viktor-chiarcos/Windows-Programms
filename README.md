@@ -1,8 +1,8 @@
 # Windows Store
 
-Bevor sie diesen Store Clonen Installieren sie auf den Folgenenden Webseiten exe Anwendung:
-https://git-scm.com/downloads/win (Git CMD, Git Gui, Git Bash)
-https://www.tortoisegit.org/ (Tortoise Git)
+- Bevor sie diesen Store Clonen Installieren sie auf den Folgenenden Webseiten exe Anwendung:
+- https://git-scm.com/downloads/win (Git CMD, Git Gui, Git Bash)
+- https://www.tortoisegit.org/ (Tortoise Git)
 &nbsp;
 # Store Installation Windows Store 
 - Gehen sie in die Git Bash und sagen sie:
