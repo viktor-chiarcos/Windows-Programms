@@ -8,6 +8,7 @@
 - Gehen sie in die Git Bash und sagen sie:
 -       git clone https://github.com/viktor-chiarcos/Windows-Programms
 -   Nun können sie Alle Apps Ihrer Wahl installieren
+-   Aber vergessen sie nicht chmod a+x
 
 &nbsp;
 # Updates (Bitte einmal Pro Tag Ausfühen)
@@ -16,3 +17,7 @@
 - Dann gehen sie Auf Aktuallisieren (Warscheinlich unter Weitere Optionen Anzeigen)
 - Wenn es Blau geleuchtet hat (Schildkröte im Ordner Angekommen) hat es geklappt
  
+# Store Installation help.bat
+
+- Zum Installieren sagen sie chmod a+x help.bat help.bat
+  -   In der Git Bash
