@@ -10,7 +10,7 @@
 -   Nun können sie Alle Apps Ihrer Wahl installieren
 
 &nbsp;
-# Updates (Bitte einmal Pro Tg Ausfühen)
+# Updates (Bitte einmal Pro Tag Ausfühen)
 
 - Zum Aktuallisieren drücken sie die Rechte Taste der Maus
 - Dann gehen sie Auf Aktuallisieren (Warscheinlich unter Weitere Optionen Anzeigen)
