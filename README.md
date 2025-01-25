@@ -19,5 +19,6 @@
  
 # Store Installation help.bat
 
-- Zum Installieren sagen sie chmod a+x help.bat help.bat
+- Zum Installieren sagen sie
+           chmod a+x help.bat help.bat
   -   In der Git Bash
