@@ -1,8 +1,21 @@
 echo "# Laufwerk in der Git Bash oeffnen"
-
+echo ""
 echo "Wenn sie ein Medium oeffnen wollen sollen sie den einschluss kennen."
 echo "bsp. Cloud (Laufwerk D:)"
 echo "Zum oeffnen sagen sie:"
 echo "cd /d"
 echo "Das war's."
 echo "Es gibt noch viel mehr Hilfe"
+
+echo ""
+
+echo "# Viele Befehle herausfinden"
+echo ""
+echo "Wenn du nicht weißt wie man deine Eingabe Zu Ende schreibt"
+echo "Dann druecke Die Tabulator Taste"
+echo "bsp. vnc"
+echo "Nun drueke ich den Tabulator"
+echo "Dann druecke ich den Tabulator"
+echo "vncviever %f       vncserver %f"
+echo "Das wars."
+echo "Es gibt noch mehr Hilfe!"
