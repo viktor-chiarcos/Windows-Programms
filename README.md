@@ -15,3 +15,4 @@
 - Zum Aktuallisieren drücken sie die Rechte Taste der Maus
 - Dann gehen sie Auf Aktuallisieren (Warscheinlich unter Weitere Optionen Anzeigen)
 - Wenn es Blau geleuchtet hat (Schildkröte im Ordner Angekommen) hat es geklappt
+ 
